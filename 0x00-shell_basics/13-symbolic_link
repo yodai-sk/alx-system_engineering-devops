@@ -1,3 +1,2 @@
 #!/bin/bashl
-
 ln -s /bin/ls __ls__
